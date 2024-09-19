@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, We are Asyncverse</h1>
-<h3 align="center">Led by a passionate developer from New Jersey.</h3>
 
 
-- 👨‍💻 Some of our portfolio projects are available at [https://www.asyncverse.io](https://www.asyncverse.io)
-
-- 💬 Ask me about **Data Engineering, APIs, Microservices, AWS, GCP, DevOps, Linux.
-
+- 👨‍💻 Some of our recent projects are available at [https://www.asyncverse.io](https://www.asyncverse.io)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
